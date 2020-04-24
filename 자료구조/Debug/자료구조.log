@@ -1,2 +1,4 @@
-﻿  미로.cpp
+﻿  연결리스트2.cpp
+C:\Users\r_vie\Documents\HGC\자료구조\연결리스트2.cpp(22,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'ListNode' 왼쪽은 무시됩니다.
+C:\Users\r_vie\Documents\HGC\자료구조\연결리스트2.cpp(22,12): warning C4091: '': 변수를 선언하지 않으면 'ListNode' 왼쪽은 무시됩니다.
   자료구조.vcxproj -> C:\Users\r_vie\Documents\HGC\자료구조\Debug\자료구조.exe

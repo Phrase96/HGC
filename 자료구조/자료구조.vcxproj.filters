@@ -18,5 +18,11 @@
     <ClCompile Include="미로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연결리스트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
